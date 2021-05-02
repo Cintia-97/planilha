@@ -1,0 +1,66 @@
+body {
+    background-image: url('https://image.freepik.com/vetores-gratis/fundo-de-tecnologia-de-diagrama-de-circuito-digial_1017-28403.jpg');
+    background-repeat:no-repeat;
+    background-size:100vmax;
+    
+}
+
+h1 {
+    color: rgba(236, 231, 250, 0.863);
+    border: rgb(8, 5, 44);
+    border-style: outset;
+    border-top-left-radius: 10px;
+    border-width: 10px;
+    text-align: centers;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 20px;
+}
+
+input {
+    padding: 12px 20px;
+    margin: 8px 8px 20px ;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.bnt-add {
+        background-color: rgb(8, 5, 44);
+        border: none;
+        color: white;
+        padding: 12px 40px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        border-radius: 5%;
+        margin-bottom: 20px;
+}
+
+.bnt-exit {
+
+    background-color: rgb(8, 5, 44);
+    border: none;
+    color: white;
+    padding: 12px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5%;
+    margin-bottom: 20px;
+
+}
+
+.Task-input {
+    color: yellow;
+
+}
+
+.listagem {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 20px;
+    list-style-type: none;
+}
